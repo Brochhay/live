@@ -1,4 +1,4 @@
-// filepath: /c:/Users/Chhay/Documents/GitHub/live/requirements.txt
+
 Flask==2.0.1
 ffmpeg-python==0.2.0
 yt-dlp==2021.12.1
